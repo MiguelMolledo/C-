@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\miguel\documents\visual studio 2017\projects\project1\project1\main.cpp(149): warning C4018: '<=': signed/unsigned mismatch
+c:\users\miguel\documents\visual studio 2017\projects\project1\project1\main.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\miguel\documents\visual studio 2017\projects\project1\project1\main.cpp(151): warning C4715: 'MyGame::get_idx_word': not all control paths return a value
+c:\users\miguel\documents\visual studio 2017\projects\project1\project1\main.cpp(167): warning C4715: 'MyGame::compare_common_characters': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Miguel\Documents\Visual Studio 2017\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Miguel\Documents\Visual Studio 2017\Projects\Project1\Debug\Project1.pdb (Partial PDB)
